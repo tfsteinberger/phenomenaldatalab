@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phenomenal Data Lab</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Phenomenal Data Lab</h1>
+    <p>The Phenomenal Data Lab studies and designs AI systems to help end users such as domain experts interact with their data. Our name comes from John McCarthy’s proposal to base AI on data grounded in phenomena in the world, and not just abstracted for machine learning (the currently dominant approach). We research phenomena-specific interactions with data across diverse end users. We use qualitative methods (e.g., ethnography) and (mostly non-ML) AI methods (e.g., constraint propagation models inspired in part by McCarthy’s work).</p>
+    
+    <p>Our interdisciplinary lab fuses two distinct research streams.</p>
+
+    <p>In one stream, we study how domain experts use data in organizations, positioning our research within the strategy and organization design literatures. We pursue two main lines of research. First, while extant theories are mostly restricted to how data inform given search problems, we study novel organizational mechanisms to enable data to inform the representation of problems from mere symptoms. Second, we develop a view of AI as not just machine learning technologies used in organizations, but as a diverse set of ideas for theorizing organizations. By doing so, we surface new possibilities for strategically using data in organizations that are based on foundational AI ideas and not just currently popular techniques.</p>
+
+    <p>In a second stream positioned at the intersection of HCI, CSCW, Interaction Design, and STS, we study data interactions by different end users in their everyday engagement with phenomena of interest. We seek to understand and theorize patterns and dimensions of phenomenon-specific data interactions to inform the design of interactive systems that are intuitive, relevant, and empowering, enabling end users to experience the world as intended through their own data, regardless of their technical expertise.</p>
+</div>
+
+</body>
+</html>
